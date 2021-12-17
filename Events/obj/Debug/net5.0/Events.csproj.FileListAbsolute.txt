@@ -1,0 +1,12 @@
+E:\PSSC\Events\bin\Debug\net5.0\Events.deps.json
+E:\PSSC\Events\bin\Debug\net5.0\Events.dll
+E:\PSSC\Events\bin\Debug\net5.0\ref\Events.dll
+E:\PSSC\Events\bin\Debug\net5.0\Events.pdb
+E:\PSSC\Events\obj\Debug\net5.0\Events.csproj.AssemblyReference.cache
+E:\PSSC\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\PSSC\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+E:\PSSC\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+E:\PSSC\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+E:\PSSC\Events\obj\Debug\net5.0\Events.dll
+E:\PSSC\Events\obj\Debug\net5.0\ref\Events.dll
+E:\PSSC\Events\obj\Debug\net5.0\Events.pdb

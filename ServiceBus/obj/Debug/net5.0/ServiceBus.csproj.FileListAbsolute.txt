@@ -1,0 +1,15 @@
+E:\PSSC\ServiceBus\bin\Debug\net5.0\ServiceBus.deps.json
+E:\PSSC\ServiceBus\bin\Debug\net5.0\ServiceBus.dll
+E:\PSSC\ServiceBus\bin\Debug\net5.0\ref\ServiceBus.dll
+E:\PSSC\ServiceBus\bin\Debug\net5.0\ServiceBus.pdb
+E:\PSSC\ServiceBus\bin\Debug\net5.0\Events.dll
+E:\PSSC\ServiceBus\bin\Debug\net5.0\Events.pdb
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.csproj.AssemblyReference.cache
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.AssemblyInfoInputs.cache
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.AssemblyInfo.cs
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.csproj.CopyComplete
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.dll
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ref\ServiceBus.dll
+E:\PSSC\ServiceBus\obj\Debug\net5.0\ServiceBus.pdb

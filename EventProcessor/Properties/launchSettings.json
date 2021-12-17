@@ -1,0 +1,14 @@
+{
+    "profiles": {
+        "EventProcessor": {
+            "commandName": "Project",
+            "environmentVariables": {
+                "NETCORE_ENVIRONMENT": "development"
+            }
+        }
+    },
+
+    "ConnectionStrings": {
+        "ServiceBus": "Endpoint=sb://psscbus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=2ZAm6ylvNSQhTel0DrEoJN6fbeIisrqlEQiA7RRR3tA="
+    }
+}
